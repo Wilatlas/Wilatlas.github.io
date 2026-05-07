@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Wilatlas.github.io/myblog/categories/</loc>
+    <loc>https://Wilatlas.github.io/categories/</loc>
   </url><url>
-    <loc>https://Wilatlas.github.io/myblog/posts/</loc>
+    <loc>https://Wilatlas.github.io/posts/</loc>
   </url><url>
-    <loc>https://Wilatlas.github.io/myblog/tags/</loc>
+    <loc>https://Wilatlas.github.io/tags/</loc>
   </url><url>
-    <loc>https://Wilatlas.github.io/myblog/</loc>
+    <loc>https://Wilatlas.github.io/</loc>
   </url>
 </urlset>
