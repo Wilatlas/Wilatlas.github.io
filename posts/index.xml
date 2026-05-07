@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <atom:link href="https://Wilatlas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cold Medicine</title>
+      <link>https://Wilatlas.github.io/posts/articles01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Wilatlas.github.io/posts/articles01/</guid>
+      <description>&lt;h1 id=&#34;cold-medicine&#34;&gt;Cold Medicine&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
